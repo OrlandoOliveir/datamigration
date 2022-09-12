@@ -9,6 +9,6 @@ Este é um exercício de importação de dados.
 - Importar os dados para as tabelas
 
 
-Seria possível ainda automatizar todo o processo por meio de funções! 
+Seria possível ainda automatizar todo o processo de diversas maneiras!
 
 Caso tenha alguma dúvida ou algo aí não funcione, é só entrar em contato! 
