@@ -17,4 +17,4 @@ cod_agendamento;id_paciente;cod_medico;dh_inicio;dh_final;cod_convenio;cd_proced
 ;9;85218;2021-06-28  11:00:00;2021-06-28	11:30:00;5;2;X-x-x-x
 ;12;85218;2021-08-06	08:30:00;2021-08-06	08:45:00;3;1;
 ;4;85217;2021-08-16	10:15:00;2021-08-16	11:00:00;5;3;dores de cabeça muito fortes
-;11;85217;2021-08-19	08:30:00;2021-08-19	09:00:00;5;1;queixa de dor na coluna;
+;11;85217;2021-08-19	08:30:00;2021-08-19	09:00:00;5;1;queixa de dor na coluna
